@@ -34,7 +34,7 @@ A simple and interactive calculator built using **HTML**, **CSS**, and **JavaScr
 ## Screenshots
 
 ### Desktop View:
-![Desktop View] 
+![Desktop View] (https://github.com/vishalvermacore/web-calculator/blob/39aff2d592aeb6b3009f548dc0445721cd8a468a/Desktop_view.png)
 ### Mobile View:
 ![Mobile View]
 
